@@ -1,0 +1,10 @@
+.sample {
+    cursor: pointer;
+    font-size: 0.75rem;
+    padding: 0.35rem;
+    margin-top: 20px;    
+    transition: all .25s;
+    z-index: 10;
+    max-height: 50%;
+    max-width: 80%;
+  }
